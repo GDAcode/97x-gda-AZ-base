@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="[Aminyuz] Chequeos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="[Aminyuz] Chequeos\LifeCheck">
+      <UniqueIdentifier>{15ee6fa7-8ad8-4efe-95e8-5f0f4f9c7f49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Comandos">
+      <UniqueIdentifier>{4c98d787-53f5-480a-b8ed-a85c42a79c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Fixes">
+      <UniqueIdentifier>{2e192dd1-6b90-4a5f-a4ed-cf45ff9e3ad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Balance">
+      <UniqueIdentifier>{61c9b39e-9eb1-4684-8bf8-020e67e1b91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Eventos">
+      <UniqueIdentifier>{e9e5ec2f-e478-4d80-9f0f-6fa217cc7e9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Reload">
+      <UniqueIdentifier>{b9e66a3b-3849-4df4-80c7-553b1de9e29f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Reset">
+      <UniqueIdentifier>{b00053f5-6484-46f3-9754-695f749a46d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\StdAfx">
+      <UniqueIdentifier>{2dca37cc-45f5-4555-a97a-fcadcb38f0f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Protocolo">
+      <UniqueIdentifier>{9002e007-cae5-4f91-a665-5da724adabc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Defines">
+      <UniqueIdentifier>{bf46cc08-fe00-4e2c-8002-ad33f5c4c639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Funciones">
+      <UniqueIdentifier>{802c1de6-9f6e-4224-84be-f6ee032ea4ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\SQL">
+      <UniqueIdentifier>{6e6155a3-5fa6-4623-872b-480405b19fb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\SQL\Database">
+      <UniqueIdentifier>{b6c09341-adc3-4e47-ba83-3a7cb6a39901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\SQL\Manager">
+      <UniqueIdentifier>{2b1ff0c1-a3e4-4326-bc2f-bc2a990cb29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Usuarios">
+      <UniqueIdentifier>{28307640-8edb-43d5-ad65-136a102af893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Items">
+      <UniqueIdentifier>{55090bcf-ebfd-458c-a421-41bd81848090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Seguridad">
+      <UniqueIdentifier>{fd35cb9e-c2b5-4f5c-83be-856520ff464b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Aminyuz">
+      <UniqueIdentifier>{1d9c97d7-ce86-4921-a112-f02ec9d38c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Rates">
+      <UniqueIdentifier>{15d1f08c-d28f-4acf-9f26-5ffb6eae049b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Servidor">
+      <UniqueIdentifier>{e1baf3dd-481d-402b-8b3f-061acf79286f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Habilidades">
+      <UniqueIdentifier>{3a01f455-5067-4d39-9c10-9f32b57ddf63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas">
+      <UniqueIdentifier>{a9ffd77c-0b30-455e-ad04-047a7ef8e9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\Movereq">
+      <UniqueIdentifier>{e3ab6e5f-dd7c-486b-a4aa-c6c836b615ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\Noticias">
+      <UniqueIdentifier>{9c233769-f3ad-4dbf-a2c6-8905d05e7abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\Party">
+      <UniqueIdentifier>{3854d580-0f21-40a8-b0db-e09246e63f39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\GameMaster">
+      <UniqueIdentifier>{5ca8b7c0-67a4-45d8-8a3a-092103d96a6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Eventos\Kundun">
+      <UniqueIdentifier>{7c63140b-250b-47e3-9391-504256b1ce8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Mapas">
+      <UniqueIdentifier>{9b5262d5-9f01-4ead-a463-11c4fb06721a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\ItemDrop">
+      <UniqueIdentifier>{6d6f5fa9-cfdc-4a17-a8c3-f57c02ac00c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Chequeos\NPCTalkEx">
+      <UniqueIdentifier>{6bfdf980-d031-40a8-984b-02c1aaa78915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\NPC">
+      <UniqueIdentifier>{1cfaa2f0-2272-4585-949a-847c6e4e981b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\NPC\PKWarden">
+      <UniqueIdentifier>{08f4c0dd-3340-4597-a389-b7652555444c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Precios">
+      <UniqueIdentifier>{30504f58-30a9-4a81-920b-1e3178721c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\NPC\ZenWarden">
+      <UniqueIdentifier>{f640c33e-05ab-42fa-9b2a-f4d5a9e3d986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\CGUseItemRecv">
+      <UniqueIdentifier>{7c09e8bb-6c8f-4b3f-a000-eb49416454e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Importante\Seguridad\CodigoMain">
+      <UniqueIdentifier>{7eed2cf5-62ac-4b66-bd3f-352cb69b06ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\Sistemas\Trade">
+      <UniqueIdentifier>{1544e60c-951d-495b-a912-f169e02b865c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[Aminyuz] Mod\ObjAttack">
+      <UniqueIdentifier>{b9f34b34-afc9-4c55-b0ba-dca3e19dc5e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Protocolo.cpp">
+      <Filter>[Aminyuz] Importante\Protocolo</Filter>
+    </ClCompile>
+    <ClCompile Include="Funciones.cpp">
+      <Filter>[Aminyuz] Importante\Funciones</Filter>
+    </ClCompile>
+    <ClCompile Include="Comandos.cpp">
+      <Filter>[Aminyuz] Mod\Comandos</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>[Aminyuz] Importante\SQL\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>[Aminyuz] Importante\SQL\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Movereq.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\Movereq</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>[Aminyuz] Importante\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>[Aminyuz] Importante\StdAfx</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixes.cpp">
+      <Filter>[Aminyuz] Mod\Fixes</Filter>
+    </ClCompile>
+    <ClCompile Include="Balance.cpp">
+      <Filter>[Aminyuz] Mod\Balance</Filter>
+    </ClCompile>
+    <ClCompile Include="LifeCheck.cpp">
+      <Filter>[Aminyuz] Chequeos\LifeCheck</Filter>
+    </ClCompile>
+    <ClCompile Include="Noticias.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\Noticias</Filter>
+    </ClCompile>
+    <ClCompile Include="Reload.cpp">
+      <Filter>[Aminyuz] Mod\Reload</Filter>
+    </ClCompile>
+    <ClCompile Include="Reset.cpp">
+      <Filter>[Aminyuz] Mod\Reset</Filter>
+    </ClCompile>
+    <ClCompile Include="Seguridad.cpp">
+      <Filter>[Aminyuz] Importante\Seguridad</Filter>
+    </ClCompile>
+    <ClCompile Include="Aminyuz.cpp">
+      <Filter>[Aminyuz] Importante\Aminyuz</Filter>
+    </ClCompile>
+    <ClCompile Include="Usuarios.cpp">
+      <Filter>[Aminyuz] Importante\Usuarios</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMaster.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\GameMaster</Filter>
+    </ClCompile>
+    <ClCompile Include="Rates.cpp">
+      <Filter>[Aminyuz] Mod\Rates</Filter>
+    </ClCompile>
+    <ClCompile Include="Servidor.cpp">
+      <Filter>[Aminyuz] Mod\Servidor</Filter>
+    </ClCompile>
+    <ClCompile Include="Habilidades.cpp">
+      <Filter>[Aminyuz] Mod\Habilidades</Filter>
+    </ClCompile>
+    <ClCompile Include="Party.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="Kundun.cpp">
+      <Filter>[Aminyuz] Mod\Eventos\Kundun</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapas.cpp">
+      <Filter>[Aminyuz] Mod\Mapas</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemDrop.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\ItemDrop</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCTalkEx.cpp">
+      <Filter>[Aminyuz] Chequeos\NPCTalkEx</Filter>
+    </ClCompile>
+    <ClCompile Include="PKWarden.cpp">
+      <Filter>[Aminyuz] Mod\NPC\PKWarden</Filter>
+    </ClCompile>
+    <ClCompile Include="Precios.cpp">
+      <Filter>[Aminyuz] Mod\Precios</Filter>
+    </ClCompile>
+    <ClCompile Include="ZenWarden.cpp">
+      <Filter>[Aminyuz] Mod\NPC\ZenWarden</Filter>
+    </ClCompile>
+    <ClCompile Include="CGUseItemRecv.cpp">
+      <Filter>[Aminyuz] Importante\CGUseItemRecv</Filter>
+    </ClCompile>
+    <ClCompile Include="CodigoMain.cpp">
+      <Filter>[Aminyuz] Importante\Seguridad\CodigoMain</Filter>
+    </ClCompile>
+    <ClCompile Include="Trade.cpp">
+      <Filter>[Aminyuz] Mod\Sistemas\Trade</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjAttack.cpp">
+      <Filter>[Aminyuz] Mod\ObjAttack</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StdAfx.h">
+      <Filter>[Aminyuz] Importante\StdAfx</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocolo.h">
+      <Filter>[Aminyuz] Importante\Protocolo</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>[Aminyuz] Importante\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Funciones.h">
+      <Filter>[Aminyuz] Importante\Funciones</Filter>
+    </ClInclude>
+    <ClInclude Include="Comandos.h">
+      <Filter>[Aminyuz] Mod\Comandos</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>[Aminyuz] Importante\SQL\Database</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>[Aminyuz] Importante\SQL\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Usuarios.h">
+      <Filter>[Aminyuz] Importante\Usuarios</Filter>
+    </ClInclude>
+    <ClInclude Include="Movereq.h">
+      <Filter>[Aminyuz] Mod\Sistemas\Movereq</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>[Aminyuz] Importante\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixes.h">
+      <Filter>[Aminyuz] Mod\Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Balance.h">
+      <Filter>[Aminyuz] Mod\Balance</Filter>
+    </ClInclude>
+    <ClInclude Include="LifeCheck.h">
+      <Filter>[Aminyuz] Chequeos\LifeCheck</Filter>
+    </ClInclude>
+    <ClInclude Include="Noticias.h">
+      <Filter>[Aminyuz] Mod\Sistemas\Noticias</Filter>
+    </ClInclude>
+    <ClInclude Include="Reload.h">
+      <Filter>[Aminyuz] Mod\Reload</Filter>
+    </ClInclude>
+    <ClInclude Include="Reset.h">
+      <Filter>[Aminyuz] Mod\Reset</Filter>
+    </ClInclude>
+    <ClInclude Include="Seguridad.h">
+      <Filter>[Aminyuz] Importante\Seguridad</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMaster.h">
+      <Filter>[Aminyuz] Mod\Sistemas\GameMaster</Filter>
+    </ClInclude>
+    <ClInclude Include="Rates.h">
+      <Filter>[Aminyuz] Mod\Rates</Filter>
+    </ClInclude>
+    <ClInclude Include="Servidor.h">
+      <Filter>[Aminyuz] Mod\Servidor</Filter>
+    </ClInclude>
+    <ClInclude Include="Habilidades.h">
+      <Filter>[Aminyuz] Mod\Habilidades</Filter>
+    </ClInclude>
+    <ClInclude Include="Party.h">
+      <Filter>[Aminyuz] Mod\Sistemas\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="Kundun.h">
+      <Filter>[Aminyuz] Mod\Eventos\Kundun</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapas.h">
+      <Filter>[Aminyuz] Mod\Mapas</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemDrop.h">
+      <Filter>[Aminyuz] Mod\Sistemas\ItemDrop</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCTalkEx.h">
+      <Filter>[Aminyuz] Chequeos\NPCTalkEx</Filter>
+    </ClInclude>
+    <ClInclude Include="PKWarden.h">
+      <Filter>[Aminyuz] Mod\NPC\PKWarden</Filter>
+    </ClInclude>
+    <ClInclude Include="Precios.h">
+      <Filter>[Aminyuz] Mod\Precios</Filter>
+    </ClInclude>
+    <ClInclude Include="ZenWarden.h">
+      <Filter>[Aminyuz] Mod\NPC\ZenWarden</Filter>
+    </ClInclude>
+    <ClInclude Include="CGUseItemRecv.h">
+      <Filter>[Aminyuz] Importante\CGUseItemRecv</Filter>
+    </ClInclude>
+    <ClInclude Include="CodigoMain.h">
+      <Filter>[Aminyuz] Importante\Seguridad\CodigoMain</Filter>
+    </ClInclude>
+    <ClInclude Include="Trade.h">
+      <Filter>[Aminyuz] Mod\Sistemas\Trade</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjAttack.h">
+      <Filter>[Aminyuz] Mod\ObjAttack</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

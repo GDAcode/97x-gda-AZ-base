@@ -1,0 +1,30 @@
+#ifndef  ITEMS_H
+#define  ITEMS_H
+
+enum PLAYER_WARDROBE 
+{
+	EQUIPMENT_WEAPON_RIGHT = 0, 
+    EQUIPMENT_WEAPON_LEFT  = 1,
+    EQUIPMENT_HELM         = 2,
+    EQUIPMENT_ARMOR        = 3,
+    EQUIPMENT_PANTS        = 4,
+    EQUIPMENT_GLOVES       = 5,
+    EQUIPMENT_BOOTS        = 6,
+    EQUIPMENT_WING         = 7,
+    EQUIPMENT_HELPER       = 8,
+    EQUIPMENT_AMULET       = 9,
+    EQUIPMENT_RING_RIGHT   = 10,
+    EQUIPMENT_RING_LEFT    = 11,
+    EQUIPMENT_GOLD         = 12,
+};
+
+enum PLAYER_RESISTANCE 
+{
+	 RESISTANCE_COLD	   = 0,
+     RESISTANCE_POISON	   = 1,
+     RESISTANCE_THUNDER	   = 2,
+     RESISTANCE_FIRE	   = 3,
+     RESISTANCE_MAX		   = 4,
+};
+
+#endif
